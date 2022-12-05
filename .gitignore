@@ -1,0 +1,5 @@
+my-schedule-api/package-lock.json
+my-schedule-api/node_modules
+
+my-schedule-web/node_modules
+my-schedule-web/package-lock.json
